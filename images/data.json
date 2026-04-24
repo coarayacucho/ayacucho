@@ -1,0 +1,44 @@
+{
+  "museos": {
+    "etiqueta": "Ayacucho",
+    "titulo": "Museos y Cultura",
+    "descripcion": "Explora espacios de memoria, arte, historia y patrimonio que conservan la identidad viva de Ayacucho.",
+    "hero": "img/museos-hero.jpg",
+    "bloques": [
+      {
+        "titulo": "Historia Prehispánica y Colonial",
+        "descripcion": "Centros dedicados a las culturas antiguas, la arquitectura colonial y el pasado histórico de Huamanga.",
+        "items": [
+          {
+            "categoria": "Arqueológico",
+            "titulo": "Hipólito Unanue",
+            "descripcion": "Colecciones de cerámica, textiles y piezas vinculadas a la cultura Wari, época incaica y virreinal.",
+            "imagen": "img/museos/m-unanue.jpg"
+          },
+          {
+            "categoria": "Museo de sitio",
+            "titulo": "Complejo Wari",
+            "descripcion": "Exhibe hallazgos de la capital del primer imperio andino y complementa la visita arqueológica.",
+            "imagen": "img/museos/m-wari.jpg"
+          }
+        ]
+      }
+    ]
+  },
+
+  "iglesias": {
+    "etiqueta": "Ayacucho",
+    "titulo": "Iglesias",
+    "descripcion": "Recorre templos históricos, arte religioso y arquitectura colonial de la ciudad de Ayacucho.",
+    "hero": "img/iglesias-hero.jpg",
+    "bloques": []
+  },
+
+  "parques": {
+    "etiqueta": "Ayacucho",
+    "titulo": "Parques y Miradores",
+    "descripcion": "Conoce espacios naturales, miradores y lugares de encuentro en la ciudad.",
+    "hero": "img/parques-hero.jpg",
+    "bloques": []
+  }
+}

@@ -34,11 +34,84 @@
     "bloques": []
   },
 
-  "parques": {
-    "etiqueta": "Ayacucho",
-    "titulo": "Parques y Miradores",
-    "descripcion": "Conoce espacios naturales, miradores y lugares de encuentro en la ciudad.",
-    "hero": "img/parques-hero.jpg",
-    "bloques": []
-  }
+"parques": {
+  "etiqueta": "Ayacucho",
+  "titulo": "Parques y Miradores",
+  "descripcion": "Conoce espacios naturales, miradores y lugares de encuentro en la ciudad.",
+  "hero": "img/parques-hero.jpg",
+  "bloques": [
+    {
+      "titulo": "Parques urbanos",
+      "descripcion": "Espacios verdes ideales para el descanso, la recreación y la vida cotidiana en Ayacucho.",
+      "items": [
+        {
+          "categoria": "Parque",
+          "titulo": "Parque Mariscal Cáceres",
+          "descripcion": "Los árboles frondosos del parque ofrecen una sombra refrescante, un lugar perfecto para el descanso y la recreación familiar.",
+          "imagen": "https://lh3.googleusercontent.com/d/1VI5HUBVsQ7wmowjiDZZdfAzo6SWEvKzz"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque Mariscal Cáceres",
+          "descripcion": "Los juegos infantiles son el centro de atención de los más pequeños, quienes disfrutan de un día lleno de diversión.",
+          "imagen": "https://lh3.googleusercontent.com/d/1caJ8lUEE0l7HiToTU4QAJi-5owV267U0"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque Mariscal Cáceres",
+          "descripcion": "Las bancas del parque invitan a una pausa para leer un libro, conversar o simplemente observar la vida pasar.",
+          "imagen": "https://lh3.googleusercontent.com/d/1mMic_-0X4VZUKrAynOfQGaVZMfe1U_Kb"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque Sanidad",
+          "descripcion": "Un espacio verde ideal para practicar deportes al aire libre, como el yoga o el tai chi, en completa armonía.",
+          "imagen": "https://lh3.googleusercontent.com/d/1Alk_gULaSAyBE-4oFDQcViiGU7Zvcu1a"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque Sanidad",
+          "descripcion": "Las familias disfrutan de picnics y reuniones en el césped, aprovechando el ambiente tranquilo y seguro del parque.",
+          "imagen": "https://lh3.googleusercontent.com/d/1Zf0Y-nnz6mzSTyQ_droIf7X9MnziIf-u"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque Sanidad",
+          "descripcion": "Los senderos del parque son perfectos para una caminata matutina o una carrera al atardecer, conectando con la naturaleza.",
+          "imagen": "https://lh3.googleusercontent.com/d/1-J9uqn0RzRD5cb-ao6xpNGHVl5RSau5s"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque de la Memoria",
+          "descripcion": "Un espacio para la reflexión y el recuerdo, el Parque de la Memoria honra a las víctimas con su diseño solemne.",
+          "imagen": "https://lh3.googleusercontent.com/d/1zB4hZbFH-in3nkbf8hVXTpmVAGTVAelf"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque de la Memoria",
+          "descripcion": "Las esculturas y monumentos del parque narran una historia importante que no debe ser olvidada por las nuevas generaciones.",
+          "imagen": "https://lh3.googleusercontent.com/d/1Lh4oxQehFs7gXTcmCw7UdgHf87WJq8er"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque de la Memoria",
+          "descripcion": "El silencio y la paz que se respira en el parque invitan a la meditación y al recuerdo de los seres queridos.",
+          "imagen": "https://lh3.googleusercontent.com/d/1OCL4nabT3r3-kghfrt7kY1BCSlhpLCTr"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque de la Memoria",
+          "descripcion": "Las placas con los nombres de las víctimas son un homenaje conmovedor y un llamado a la paz y la reconciliación.",
+          "imagen": "https://lh3.googleusercontent.com/d/1D097RtZPUaQxNvS4cCbW9L9EL4aNHKSv"
+        },
+        {
+          "categoria": "Parque",
+          "titulo": "Parque Urbano",
+          "descripcion": "Un pulmón verde en la ciudad, donde la gente se reúne para hacer ejercicio, relajarse y conectar con la naturaleza.",
+          "imagen": "https://lh3.googleusercontent.com/d/1c3gydfzy5Oc-GJeY5qiewi-aWl6cyLnS"
+        }
+      ]
+    }
+  ]
+}
 }
